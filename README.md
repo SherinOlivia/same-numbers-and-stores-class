@@ -29,6 +29,7 @@ Criteria/Attribute :
 
 
 Expected Output : 
+
 [![Stores-Class-Result](/media/stores-class.png)](/media/stores-class.png)
 
 ## Personal Take
